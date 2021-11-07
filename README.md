@@ -8,7 +8,4 @@
 
 I using [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for my homepage. And GitHub Actions for the Continuous Integration and the deployement to [GitHub Pages repository](https://github.com/brbabaloni/brbabaloni.github.io)
 
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
