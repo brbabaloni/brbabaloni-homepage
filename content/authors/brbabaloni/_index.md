@@ -6,7 +6,7 @@ title: Baptiste Ruello-Babaloni
 superuser: true
 
 # Role/position/tagline
-role: Etudiant en BTS SIO SISR à l'
+role: Étudiant en BTS SIO SISR à l'
 
 # Organizations/Affiliations to show in About widget
 organizations:
