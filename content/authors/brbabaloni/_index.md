@@ -37,12 +37,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
+  icon_pack: fas
+  link: 'https://twitter.com/brbabaloni'
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/brbabaloni
+  link: https://instagram.com/brbabaloni
 - icon: github
   icon_pack: fab
   link: https://github.com/brbabaloni
@@ -64,7 +64,7 @@ email: "baptiste.ruello-babaloni@rbgl.fr"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Moi c'est Baptiste ! Je suis un étudiant de 20 ans.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
