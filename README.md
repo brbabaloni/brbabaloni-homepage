@@ -1,6 +1,6 @@
 # About
 
-[![Screenshot](https://wowchemy.com/uploads/readmes/academic_logo_200px.png)](https://wowchemy.com/hugo-themes/)
+<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
 [![CI](https://github.com/brbabaloni/brbabaloni-homepage/actions/workflows/main.yml/badge.svg?branch=production)](https://github.com/brbabaloni/brbabaloni-homepage/actions/workflows/main.yml)
 
