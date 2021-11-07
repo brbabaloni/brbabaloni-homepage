@@ -20,8 +20,8 @@ bio: Moi c'est Baptiste ! Je suis un étudiant de 20 ans.
 interests:
 - Trains
 - Photographie
-- Administration Système et Serveurs
 - Droit
+- Administration Système et Serveurs
 
 # Education to show in About widget
 education:
