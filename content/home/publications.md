@@ -37,8 +37,6 @@ design:
   view: 4
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/brbabaloni?ref_src=twsrc%5Etfw">Tweets by brbabaloni</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
