@@ -14,13 +14,14 @@ organizations:
   url: https://ecolepratique.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Moi c'est Baptiste ! Je suis un étudiant de 20 ans.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Trains
+- Photographie
+- Administration Système et Serveurs
+- Droit
 
 # Education to show in About widget
 education:
