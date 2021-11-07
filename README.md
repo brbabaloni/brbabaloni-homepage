@@ -1,10 +1,12 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# About
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
 [![CI](https://github.com/brbabaloni/brbabaloni-homepage/actions/workflows/main.yml/badge.svg?branch=production)](https://github.com/brbabaloni/brbabaloni-homepage/actions/workflows/main.yml)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+
+I using [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for my homepage.
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
@@ -22,11 +24,6 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
