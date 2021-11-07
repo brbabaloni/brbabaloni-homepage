@@ -38,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: 'https://twitter.com/brbabaloni'
 - icon: instagram
   icon_pack: fab
