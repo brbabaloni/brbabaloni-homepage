@@ -6,4 +6,4 @@
 
 ### Welcome to Baptiste's Homepage (Hugo Based) repository !
 
-I use [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for my homepage. And GitHub Actions for the Continuous Integration and the deployement to [GitHub Pages repository](https://github.com/brbabaloni/brbabaloni.github.io)
+I use [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic) for my homepage. And GitHub Actions for the Continuous Integration and the deployment to [GitHub Pages repository](https://github.com/brbabaloni/brbabaloni.github.io)
