@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkRed"
-  gradient_end = "Crimson"
+  gradient_start = "DarkBlue"
+  gradient_end = "Blue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -58,7 +58,3 @@ subtitle = ""
 Cette page est en cours de construction.
 
 {{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
