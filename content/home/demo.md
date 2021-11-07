@@ -26,7 +26,7 @@ subtitle = ""
   
   # Background gradient.
   gradient_start = "DarkBlue"
-  gradient_end = "Navy"
+  gradient_end = "RoyalBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -49,9 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-## 👋 Bienvenue sur ma page !
-
 
 {{% callout note %}}
 
