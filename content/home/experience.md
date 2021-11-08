@@ -41,9 +41,9 @@ experience:
     company_url: 'https://univ-amu.fr'
     company_logo: org-x
     location: Marseille
-    date_start: '2020-09'
-    date_end: '2021-08'
-    description: 
+    date_start: '2020-09-01'
+    date_end: '2021-08-37'
+    description: Test
 
 design:
   columns: '2'
