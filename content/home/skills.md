@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: database
+  icon: fa-database
   icon_pack: fas
   name: Bases de données
 - description: 100%
