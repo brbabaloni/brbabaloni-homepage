@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 90%
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: Bases de données
 - description: 100%
   icon: chart-line
