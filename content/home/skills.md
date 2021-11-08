@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: chart-line
+  icon: server
   icon_pack: fas
-  name: Bases de données
+  name: Administration Système
 - description: 100%
   icon: chart-line
   icon_pack: fas
