@@ -1,4 +1,4 @@
-name: CI Pre Prodcution
+name: CI Pre-Production
 on:
   push:
     branches:
