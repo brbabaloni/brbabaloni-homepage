@@ -1,5 +1,11 @@
 name: CI
-on: push
+on:
+  push:
+    branches:
+      - production
+  pull_request:
+    branches:
+      - pre-production
 jobs:
   deploy:
     runs-on: ubuntu-20.04
