@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Compétences
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: database
   icon_pack: fab
-  name: R
+  name: Bases de données
 - description: 100%
   icon: chart-line
   icon_pack: fas
