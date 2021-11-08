@@ -33,9 +33,9 @@ jobs:
         with:
           personal_token: ${{ secrets.CI }}
           external_repository: brbabaloni/brbabaloni.github.io
-          publish_dir: ./pre-prod
+          publish_dir: ./public/pre-prod
           #   keep_files: true
           user_name: brbabaloni
           user_email: baptiste.ruello-babaloni@rbgl.fr
           publish_branch: production
-          cname: brbabaloni.fr
+          #cname: brbabaloni.fr
