@@ -38,4 +38,4 @@ jobs:
           user_name: brbabaloni
           user_email: baptiste.ruello-babaloni@rbgl.fr
           publish_branch: production
-        #   cname: example.com
+          cname: brbabaloni.fr
