@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Marseille
     date_start: '2020-09-01'
-    date_end: '2021-08-37'
+    date_end: '2021-08-31'
     description: Test
 
 design:
