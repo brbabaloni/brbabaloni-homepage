@@ -25,7 +25,7 @@ experience:
   - title: Alternant
     company: Police Nationale
     company_url: 'https://police-nationale.interieur.gouv.fr'
-    company_logo: org-gc
+    company_logo: police
     location: Marseille
     date_start: '2021-09-01'
     date_end: ''
@@ -43,7 +43,7 @@ experience:
     location: Marseille
     date_start: '2020-09-01'
     date_end: '2021-08-31'
-    description: 'Agent contractuel au Centre National du Diplôme de Compétence en Langue à AixMarseille Université. Mes activités comportent 3 volets ; administratif, juridique et financier.'
+    description: 'Agent contractuel au Centre National du Diplôme de Compétence en Langue à AixMarseille Université. Mes activités comportaient 3 volets ; administratif, juridique et financier.'
 
 design:
   columns: '2'
