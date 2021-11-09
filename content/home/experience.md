@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Alternant
+    company: Police Nationale
+    company_url: 'https://police-nationale.interieur.gouv.fr'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Marseille
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,11 +39,11 @@ experience:
   - title: Adjoint Administratif
     company: Aix-Marseille Université
     company_url: 'https://univ-amu.fr'
-    company_logo: org-x
+    company_logo: amu
     location: Marseille
     date_start: '2020-09-01'
     date_end: '2021-08-31'
-    description: Test
+    description: 'Agent contractuel au Centre National du Diplôme de Compétence en Langue à AixMarseille Université. Mes activités comportent 3 volets ; administratif, juridique et financier.'
 
 design:
   columns: '2'
