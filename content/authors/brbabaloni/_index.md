@@ -14,14 +14,13 @@ organizations:
   url: https://ecolepratique.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Moi c'est Baptiste ! Je suis un étudiant de 20 ans.
+bio: Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
 
 # Interests to show in About widget
 interests:
-- Trains
-- Information Voyageur
+- Mobilité et information voyageur
+- Système d'information et de communication
 - Photographie
-- Droit
 
 # Education to show in About widget
 education:
@@ -65,7 +64,7 @@ email: "baptiste.ruello-babaloni@rbgl.fr"
 highlight_name: true
 ---
 
-Moi c'est Baptiste ! Je suis un étudiant de 20 ans.
+Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
