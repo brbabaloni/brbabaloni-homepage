@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Baptiste RUELLO-BABALONI | Portfolio # Website name
+title: Baptiste RUELLO-BABALONI # Website name
 baseurl: 'https://brbabaloni.fr' # Website URL
 copyright: '© Copyright {year} - Baptiste RUELLO-BABALONI' # Footer text, e.g. '© {year} Me'
 
