@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Baptiste Ruello-Babaloni
+title: Baptiste RUELLO-BABALONI
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,6 +66,6 @@ highlight_name: true
 
 Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Je suis passionné par les mobilités ainsi que l’informatique. Je suis le créateur du projet « Copilote » un assistant mobilité repensé pour être ergonomique, fonctionnel et utilisable au quotidien.
 
 {{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
