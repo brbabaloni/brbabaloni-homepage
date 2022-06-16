@@ -7,15 +7,18 @@ main:
   - name: À propos
     url: '#about'
     weight: 10
+  - name: Certifications
+    url: '#skills'
+    weight: 20
   - name: Réalisations
     url: '#projects'
-    weight: 20
+    weight: 30
   - name: Articles
     url: '#posts'
-    weight: 30
+    weight: 40
   - name: Veille
     url: 'https://veille.brbabaloni.fr'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
