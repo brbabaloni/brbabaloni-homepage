@@ -66,6 +66,6 @@ highlight_name: true
 
 Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
 
-Je suis passionné par les mobilités ainsi que l’informatique. Je suis le créateur du projet « Copilote » un assistant mobilité repensé pour être ergonomique, fonctionnel et utilisable au quotidien.
+Je suis passionné par les mobilités ainsi que l’informatique. Je suis le créateur du projet « Copilote » un assistant mobilité repensé pour être ergonomique, fonctionnel et utilisable au quotidien. Il m'arrive également de coder de temps en temps.
 
 {{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
