@@ -28,19 +28,19 @@ address:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Suivez-moi
+    name: Suivez-moi sur Twitter
     link: 'https://twitter.com/brbabaloni'
   - icon: instagram
     icon_pack: fab
-    name: MP moi
+    name: Retrouvez-moi sur Instagram
     link: 'https://twitter.com/brbabaloni'
   - icon: github
     icon_pack: fab
-    name: Suivez moi
+    name: Suivez-moi sur GitHub
     link: 'https://github.com/brbabaloni'
   - icon: linkedin
     icon_pack: fab
-    name: Ajoutez moi
+    name: Ajoutez-moi sur LinkedIn
     link: 'https://linkedin.com/in/brbabaloni'
 
 # Site header
