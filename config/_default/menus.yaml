@@ -7,7 +7,7 @@ main:
   - name: À propos
     url: '#about'
     weight: 10
- - name: Réalisations
+  - name: Réalisations
     url: '#projects'
     weight: 20
   - name: Posts
