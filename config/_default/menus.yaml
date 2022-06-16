@@ -14,7 +14,7 @@ main:
     url: '#posts'
     weight: 30
   - name: Veille
-    url: 'veille.brbabaloni.fr'
+    url: 'https://veille.brbabaloni.fr'
     weight: 40
   - name: Contact
     url: '#contact'
