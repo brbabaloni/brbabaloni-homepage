@@ -7,13 +7,13 @@ main:
   - name: À propos
     url: '#about'
     weight: 10
-  - name: Certifications
-    url: '#skills'
+  - name: Expériences
+    url: '#experiences'
     weight: 20
   - name: Réalisations
     url: '#projects'
     weight: 30
-  - name: Articles
+  - name: Blog
     url: '#posts'
     weight: 40
   - name: Veille
