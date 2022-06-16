@@ -13,6 +13,9 @@ main:
   - name: Articles
     url: '#posts'
     weight: 30
+  - name: Veille
+    url: 'veille.brbabaloni.fr'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
