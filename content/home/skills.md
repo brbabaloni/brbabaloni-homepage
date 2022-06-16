@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 80%
   icon: server
   icon_pack: fas
-  name: Administration Système
-- description: 100%
-  icon: chart-line
+  name: Systèmes
+- description: 70%
+  icon: ethernet
   icon_pack: fas
-  name: Docker
-- description: 10%
-  icon: camera-retro
+  name: Réseaux
+- description: 70%
+  icon: database
   icon_pack: fas
-  name: Photography
+  name: Bases de données
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
