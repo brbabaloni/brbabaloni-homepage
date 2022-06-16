@@ -31,6 +31,14 @@ item:
   organization_url: https://secnumacademie.gouv.fr
   title: Sensibilisation à la sécurité du numérique
   url: ""
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2021-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-
 
 design:
   columns: '2' 
