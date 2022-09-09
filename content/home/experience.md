@@ -25,7 +25,7 @@ experience:
   - title: Alternant
     company: Police Nationale
     company_url: 'https://police-nationale.interieur.gouv.fr'
-    company_logo: police
+    company_logo: police.jpg
     location: Marseille
     date_start: '2021-09-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Adjoint Administratif
     company: Aix-Marseille Université
     company_url: 'https://univ-amu.fr'
-    company_logo: amu
+    company_logo: amu.jpg
     location: Marseille
     date_start: '2020-09-01'
     date_end: '2021-08-31'
