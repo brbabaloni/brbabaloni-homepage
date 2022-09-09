@@ -29,7 +29,7 @@ experience:
     location: Marseille
     date_start: '2021-09-01'
     date_end: ''
-    description: 'Apprenti au Service Informatique Zonale'
+    description: 'Apprenti au Service Informatique Zonal'
         
   - title: Adjoint Administratif
     company: Aix-Marseille Université
