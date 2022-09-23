@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certifications'
-subtitle: 'Mooc'
+subtitle: '& Mooc'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -26,7 +26,7 @@ item:
 - certificate_url: https://secnumacademie.gouv.fr
   date_end: ""
   date_start: "2021-12-10"
-  description: ""
+  description: L’ANSSI propose SecNumacadémie pour former le plus grand nombre de citoyens à la sécurité du numérique.
   organization: ANSSI
   organization_url: https://secnumacademie.gouv.fr
   title: Sensibilisation à la sécurité du numérique
@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
   date_end: ""
   date_start: "2022-06-01"
-  description: L’habilitation secret défense <br><br> Les informations et supports classifiés
+  description: L’habilitation secret défense & Les informations et supports classifiés
   organization: DRSD
   organization_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
   title: La protection du secret de la défense nationale
@@ -42,7 +42,7 @@ item:
 - certificate_url: https://atelier-rgpd.cnil.fr/login/index.php
   date_end: ""
   date_start: "2022-09-01"
-  description: L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous (Mooc)
+  description: L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous !
   organization: CNIL
   organization_url: https://atelier-rgpd.cnil.fr/login/index.php
   title: La protection du secret de la défense nationale
