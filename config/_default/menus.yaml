@@ -11,7 +11,7 @@ main:
     url: 'https://brbabaloni.fr/post/presentation/'
     weight: 20
   - name: Certifications
-    url: '#experience'
+    url: '#accomplishments'
     weight: 30
   - name: Réalisations
     url: '#projects'
