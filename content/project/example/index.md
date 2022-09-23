@@ -1,6 +1,6 @@
 ---
 title: Déploiement d'un serveur PXE FOG
-summary: An example of using the in-built project page.
+summary: FOG est un serveur d'image PXE afin de déployer plus rapidement des postes de travail.
 tags:
 - pro
 date: "2016-04-27T00:00:00Z"

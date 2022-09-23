@@ -1,6 +1,6 @@
 ---
 title: Copilote
-summary: An example of using the in-built project page.
+summary: Copilote est un compte Twitter automatisé afin de fournir une information trafic en temps réel sur les transports de la Métropole d'Aix-Marseille Provence.
 tags:
 - perso
 date: "2021-05-28T00:00:00Z"
