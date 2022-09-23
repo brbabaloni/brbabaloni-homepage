@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certifications'
-subtitle:
+subtitle: 'Mooc'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -27,18 +27,26 @@ item:
   date_end: ""
   date_start: "2021-12-10"
   description: ""
-  organization: ANSSI - SecNumAcademie
+  organization: ANSSI
   organization_url: https://secnumacademie.gouv.fr
   title: Sensibilisation à la sécurité du numérique
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-
+  date_start: "2022-06-01"
+  description: L’habilitation secret défense <br><br> Les informations et supports classifiés
+  organization: DRSD
+  organization_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
+  title: La protection du secret de la défense nationale
+  url: ""
+- certificate_url: https://atelier-rgpd.cnil.fr/login/index.php
+  date_end: ""
+  date_start: "2022-09-01"
+  description: L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous (Mooc)
+  organization: CNIL
+  organization_url: https://atelier-rgpd.cnil.fr/login/index.php
+  title: La protection du secret de la défense nationale
+  url: ""
 
 design:
   columns: '2' 
