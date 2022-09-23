@@ -45,7 +45,7 @@ item:
   description: L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous !
   organization: CNIL
   organization_url: https://atelier-rgpd.cnil.fr/login/index.php
-  title: La protection du secret de la défense nationale
+  title: L’atelier RGPD
   url: ""
 
 design:
