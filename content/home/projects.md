@@ -27,11 +27,11 @@ content:
   filter_button:
   - name: Tous
     tag: '*'
-  - name: Professionnel
+  - name: Professionnelles
     tag: pro
-  - name: Atelier
+  - name: Ateliers
     tag: atelier
-  - name: Personnel
+  - name: Personnelles
     tag: perso
 
 design:
