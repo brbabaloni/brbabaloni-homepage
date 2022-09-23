@@ -19,8 +19,8 @@ content:
   count: 1
   # Filter on criteria
   filters:
-    author: "brbabaloni"
-    category: "presentation"
+    author: ""
+    category: ""
     tag: ""
     exclude_featured: false
     exclude_future: false
