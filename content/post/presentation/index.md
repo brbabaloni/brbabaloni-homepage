@@ -55,7 +55,7 @@ Notre parc informatique se composent de :
 - 52 postes nomades dit "Noémi"
 - 507 téléphones IP
 - 23 switchs HP et 3COM
-- 3 serveurs de virtualisations
+- 3 serveurs de virtualisation
 - 18 machines virtuelles
 - 6 baies de stockage
 
