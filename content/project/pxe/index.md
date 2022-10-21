@@ -33,7 +33,7 @@ FOG permet entre de déployer un système d'exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s'appuyant sur les
 protocoles DHCP / PXE.
 
-Contexte :
+<b>Contexte :</b>
 
 Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
-Auparavant les postes était masterisés manuellement à l'aide d'un disque dur et d'une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l'activité du Service Informatique Zonal.
+Auparavant les postes étaient masterisés manuellement à l'aide d'un disque dur et d'une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l'activité du Service Informatique Zonal.
