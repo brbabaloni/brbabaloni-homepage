@@ -1,6 +1,6 @@
 ---
 title: Présentation de l'entreprise
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle:
 
 # Summary for listings and search engines
 summary: Test
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Police Nationale'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -37,5 +37,7 @@ tags:
 categories:
 - Presentation
 ---
+
+Hello
 
 
