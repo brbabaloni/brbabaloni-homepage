@@ -45,3 +45,7 @@ protocoles DHCP / PXE.
 <h3>Installation</h3>
 
 Comme expliqué précédement, FOG s'installe sur une base Linux (Debian, Ubuntu, ...), l'installation s'effectue simplement à l'aide d'un script Bash qui déroule l'installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.
+
+<h3>Utilisation</h3>
+
+FOG se configure et s'utilise à l'aide d'une interface Web, qui nous permet de capturer et de déployer les postes.
