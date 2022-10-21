@@ -30,11 +30,9 @@ url_video: ""
 slides: example
 ---
 
- - 1. Qu’est-ce que le déploiement
-Le déploiement consiste à effectuer des installations automatisées de machines ou installer ou mettre à jour automatiquement des logiciels sur des machines en production.
-
-Pour effectuer des installations automatisées de systèmes d’exploitation, il vous faudra préparer au préalable un « Master ». Ce master sera cloné sur les machines de destination, avec des possibilités de personnalisation automatisée.
-
-À cette fin, la machine cliente devant recevoir le déploiement (l’application du master sur celui-ci) démarrera via le réseau, le serveur de déploiement lui envoyant les éléments nécessaires.
-
-La réalisation d’un master nécessitera des compétences sur le fonctionnement des systèmes d’exploitation concernés ainsi que de leurs outils. Un minimum de compétences en programmation de script sera également nécessaire.
+FOG (Free OpenSource Ghost) est une solution gratuite de déploiement
+d'images systèmes et d'applications sur des postes clients, qui se base sur
+une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
+FOG permet entre de déployer un système d'exploitation préalablement
+cloné, sur un parc de machines donné via le réseau en s'appuyant sur les
+protocoles DHCP / PXE.
