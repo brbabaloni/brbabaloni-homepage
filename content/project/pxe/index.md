@@ -26,14 +26,18 @@ url_video: ""
 slides: example
 ---
 
-FOG (Free OpenSource Ghost) est une solution gratuite de déploiement
+<h3>Contexte</h3>
+
+Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
+Auparavant les postes étaient masterisés manuellement à l'aide d'un disque dur et d'une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l'activité du Service Informatique Zonal.
+
+Pour accélerer le déploiement des nouvelles machine, j'ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.
+
+<h3>La solution</h3>
+
+FOG (Free OpenSource Ghost) est une solution open-source de déploiement
 d'images systèmes et d'applications sur des postes clients, qui se base sur
 une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d'exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s'appuyant sur les
 protocoles DHCP / PXE.
-
-<b>Contexte :</b>
-
-Dans le cadre du renouvellement partiel du matériel, nous devons déployer une centaine de machine par an.
-Auparavant les postes étaient masterisés manuellement à l'aide d'un disque dur et d'une installation MDT. Ce processus assez long (30min à 1h30 selon les postes) est chronofage pour l'activité du Service Informatique Zonal.
