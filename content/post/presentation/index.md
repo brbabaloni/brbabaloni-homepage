@@ -41,6 +41,6 @@ categories:
 Bonjour,
 
 Je m'appelle Baptiste, j'ai 21 ans, je travaille à la Direction Zonale de Police Judiciaire Sud au Service Informatique Zonal dans le cadre de mon apprentissage en BTS SIO option SISR.
-La Direction Zonale de Police Judiciaire emploie 1300 fonctionnaires dans le cadre des missions de Police Judiciaire.
+La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service territorial de la Direction Centrale de la Police Judiciaire (D.C.P.J), compte plus de 1350fonctionnaires répartis entre les quatre Directions Territoriales de Police Judiciaire (D.T.P.J.) de Marseille, Montpellier, Toulouse et Ajaccio.
 
 
