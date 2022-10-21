@@ -33,7 +33,7 @@ Auparavant les postes étaient masterisés manuellement à l'aide d'un disque du
 
 Pour accélerer le déploiement des nouvelles machine, j'ai proposé à mes chefs de service cette solution technique de déploiement de poste via le réseau. Elle permet de réduire le temps déploiement à 5 min par machine.
 
-<h3>La solution</h3>
+<h3>Solution</h3>
 
 FOG (Free OpenSource Ghost) est une solution open-source de déploiement
 d'images systèmes et d'applications sur des postes clients, qui se base sur
@@ -41,3 +41,7 @@ une architecture L.A.M.P : Linux / Apache / MySQL / PhP.
 FOG permet entre de déployer un système d'exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s'appuyant sur les
 protocoles DHCP / PXE.
+
+<h3>Installation</h3>
+
+Comme expliqué précédement, FOG s'installe sur une base Linux (Debian, Ubuntu, ...), l'installation s'effectue simplement à l'aide d'un script Bash qui déroule l'installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.
