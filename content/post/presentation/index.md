@@ -31,9 +31,6 @@ image:
 authors:
 - brbabaloni
 
-tags:
-- presentation
-
 categories:
 - Presentation
 ---
@@ -41,6 +38,26 @@ categories:
 Bonjour,
 
 Je m'appelle Baptiste, j'ai 21 ans, je travaille à la Direction Zonale de Police Judiciaire Sud au Service Informatique Zonal dans le cadre de mon apprentissage en BTS SIO option SISR.
+<br>
+<br>
 La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service territorial de la Direction Centrale de la Police Judiciaire (D.C.P.J), compte plus de 1350fonctionnaires répartis entre les quatre Directions Territoriales de Police Judiciaire (D.T.P.J.) de Marseille, Montpellier, Toulouse et Ajaccio.
+<br>
+<br>
+Mes missions au sein de la DZPJ Sud sont :
+- Installer, inventorier et maintenir opérationnels et homogènes les outils informatiques et de communication
+- Assurer la sécurité et la continuité du système d’information
+- Assister les utilisateurs
+<br>
+<br>
+Notre parc informatique se composent de :
+- 486 postes fixes
+- 52 postes nomades dit "Noémi"
+- 507 téléphones IP
+- 23 switchs HP et 3COM
+- 3 serveurs de virtualisations
+- 18 machines virtuelles
+- 6 baies de stockage
+
+
 
 
