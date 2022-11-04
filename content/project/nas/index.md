@@ -28,11 +28,9 @@ slides:
 
 Activités du référentiel pour l’épreuve E42023 :
 
-<ul>- Gérer le patrimoine informatique 
-
-<ul>- Travailler en mode projet 
-
-<ul>- Mettre à disposition des utilisateurs un service informatique 
+<ul>- Gérer le patrimoine informatique</ul>
+<ul>- Travailler en mode projet</ul>
+<ul>- Mettre à disposition des utilisateurs un service informatique</ul>
 
 <h3>Contexte</h3>
 Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
