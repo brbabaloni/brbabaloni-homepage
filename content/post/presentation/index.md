@@ -44,13 +44,18 @@ Je m'appelle Baptiste, j'ai 21 ans, je travaille à la Direction Zonale de Polic
 La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service territorial de la Direction Centrale de la Police Judiciaire (D.C.P.J), compte plus de 1350fonctionnaires répartis entre les quatre Directions Territoriales de Police Judiciaire (D.T.P.J.) de Marseille, Montpellier, Toulouse et Ajaccio.
 <br>
 <br>
+Mon service est composé d'un Commandant de Police et d'un Ingénieur des SIC qui composent la tête du service et chapeaute l'ensemble de l'activité du service qui est réparti entre deux cellules :
+<ul>le Groupe Informatique :<ul>chargé de l'installation et de la maintenance des systèmes d'information et de communications
+<ul>le Guichet Unique :<ul>chargé de la gestion des droits d'accès applicatifs, Active Directory, batimentaire ; des cartes agents, de la gestion de la flotte NEO.
+<br>
+<br>
 Mes missions au sein de la DZPJ Sud sont :
 - Installer, inventorier et maintenir opérationnels et homogènes les outils informatiques et de communication
 - Assurer la sécurité et la continuité du système d’information
 - Assister les utilisateurs
 <br>
 <br>
-Notre parc informatique se composent de :
+Notre patrimoine informatique se composent de :
 - 486 postes fixes
 - 52 postes nomades dit "Noémi"
 - 507 téléphones IP

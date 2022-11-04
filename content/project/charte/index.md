@@ -26,4 +26,9 @@ url_video: ""
 slides:
 ---
 
-Contexte
+<h3>Contexte</h3>
+
+La direction d'ASSUR MER souhaitant régir l'utilisation des ressources informatique et numérique a saisie la DSI afin d'en rédiger une, le DSI vous charge de cette tache.
+Vous aurez comme tache de rediger la charte informatique de l'entreprise ASSUR MER.
+
+<h5>Charte informatique</h5>
