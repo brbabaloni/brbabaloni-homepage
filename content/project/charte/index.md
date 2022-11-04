@@ -33,9 +33,9 @@ Vous aurez comme tache de rediger la charte informatique de l'entreprise ASSUR M
 <br>
 <br>
 Cahier des charges :
-<ul>Nouvelles recommandations de la CNIL</ul>
-<ul>Utilisation du matériel informatique</ul>
-<ul>Utilisation des services : internet, messagerie, partage réseau, ...</ul>
-<ul>Protection des données personnelles</ul>
+<ul>- Nouvelles recommandations de la CNIL</ul>
+<ul>- Utilisation du matériel informatique</ul>
+<ul>- Utilisation des services : internet, messagerie, partage réseau, ...</ul>
+<ul>- Protection des données personnelles</ul>
 
 <h5>Charte informatique</h5>
