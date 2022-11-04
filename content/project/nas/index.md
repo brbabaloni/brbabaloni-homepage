@@ -2,7 +2,7 @@
 title: Mise en place d'une solution de stockage NAS
 summary:
 tags:
-- pro
+- atelier
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,7 +26,7 @@ url_video: ""
 slides:
 ---
 
-Activités du référentiel  pour l’épreuve E42023 :
+Activités du référentiel pour l’épreuve E42023 :
 
 <ul>- Gérer le patrimoine informatique 
 
