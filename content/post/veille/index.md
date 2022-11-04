@@ -43,14 +43,21 @@ Cela a pour but d’évaluer l’impact sur l’environnement et l’organisatio
 <br>
 <br>
 <h3>Sujet de ma veille</h3>
-Ma veille porte sur les Solutions d'Infrastructure Systèmes
-
+Ma veille porte sur les <u>Solutions d'Infrastructure Systèmes</u>
+<br>
 <h3>Comment j'effectue ma veille</h3>
 
 <ul>- Les flux RSS aggrégé avec Feedly</ul>
 <ul>- Twitter</ul>
 <ul>- Google Alert</ul>
 <ul>- Linkedin</ul>
+
+Mots-cléfs :
+<ul>- Proxmox</ul>
+<ul>- VMWare</ul>
+<ul>- Virtualisation</ul>
+<ul>- Serveurs</ul>
+<ul>- HP</ul>
 
 
 
