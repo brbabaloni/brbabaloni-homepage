@@ -1,6 +1,6 @@
 ---
 title: Charte d'usage et de sécurité du système d'information d'ASSUR MER
-summary: 
+summary: La direction d'ASSUR MER souhaitant régir l'utilisation des ressources informatique et numérique a saisie la DSI afin d'en rédiger une, le DSI vous charge de cette tache.
 tags:
 - atelier
 date: "2016-04-27T00:00:00Z"
