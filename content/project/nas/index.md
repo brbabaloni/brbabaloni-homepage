@@ -15,7 +15,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://brbabaloni.fr/project/nas/nas.pttx"
 url_video: ""
 
 # Slides (optional).
@@ -40,7 +40,7 @@ Afin de gérer les documents et données (uniquement professionnels) des différ
 
 Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde  
 
-Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques. 
+Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques. 
 
 Comparer deux solutions logicielles de NAS que sont TrueNas et Synology 
 
@@ -49,3 +49,12 @@ Installer et configurer les solutions TrueNas et Synology. (https://xpenology.ne
 Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur. 
 
 Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
+<br>
+<br>
+<h3>Livrables</h3>
+<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail</a></ul>
+<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS</a></ul>
+<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID</a></ul>
+<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation</a></ul>
+<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur </a></ul>
+
