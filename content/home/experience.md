@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Alternant
+  - title: Apprenti Technicien des SIC
     company: Police Nationale
     company_url: 'https://police-nationale.interieur.gouv.fr'
     company_logo: police
     location: Marseille
     date_start: '2021-09-01'
     date_end: ''
-    description: 'Apprenti au Service Informatique Zonal'
+    description: 'Je suis apprenti Technicien des SIC dans la cadre de ma formation en BTS SIO option SISR'
         
   - title: Adjoint Administratif
     company: Aix-Marseille Université
