@@ -38,4 +38,4 @@ Cahier des charges :
 <ul>- Utilisation des services : internet, messagerie, partage réseau, ...</ul>
 <ul>- Protection des données personnelles</ul>
 
-<a href="/charte.pdf">Consultez la charte</a>
+<a href="/charte.pdf">Consulter la charte</a>
