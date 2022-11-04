@@ -30,5 +30,12 @@ slides:
 
 La direction d'ASSUR MER souhaitant régir l'utilisation des ressources informatique et numérique a saisie la DSI afin d'en rédiger une, le DSI vous charge de cette tache.
 Vous aurez comme tache de rediger la charte informatique de l'entreprise ASSUR MER.
+<br>
+<br>
+Cahier des charges :
+<ul>Nouvelles recommandations de la CNIL</ul>
+<ul>Utilisation du matériel informatique</ul>
+<ul>Utilisation des services : internet, messagerie, partage réseau, ...</ul>
+<ul>Protection des données personnelles</ul>
 
 <h5>Charte informatique</h5>
