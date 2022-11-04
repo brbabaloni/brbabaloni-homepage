@@ -1,0 +1,53 @@
+---
+title: Mise en place d'une solution de stockage NAS
+summary:
+tags:
+- pro
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: 
+  focal_point: Smart
+
+links:
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+---
+
+Activités du référentiel  pour l’épreuve E42023 :
+
+<ul>- Gérer le patrimoine informatique 
+
+<ul>- Travailler en mode projet 
+
+<ul>- Mettre à disposition des utilisateurs un service informatique 
+
+<h3>Contexte</h3>
+Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
+<br>
+<br>
+<h3>Missions</h3>
+
+Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde  
+
+Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques. 
+
+Comparer deux solutions logicielles de NAS que sont TrueNas et Synology 
+
+Installer et configurer les solutions TrueNas et Synology. (https://xpenology.net) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot. 
+
+Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur. 
+
+Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
