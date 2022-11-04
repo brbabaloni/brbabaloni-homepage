@@ -52,7 +52,7 @@ Ma veille porte sur les <u>Solutions d'Infrastructure Systèmes</u>
 <ul>- Google Alert</ul>
 <ul>- Linkedin</ul>
 
-<u>Mots-cléfs :</u>
+Mots-clés :
 <ul>- Proxmox</ul>
 <ul>- VMWare</ul>
 <ul>- Virtualisation</ul>
