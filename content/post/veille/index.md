@@ -59,6 +59,8 @@ Mots-clés :
 <ul>- Serveurs</ul>
 <ul>- HP</ul>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7038866552623886336" height="691" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
 
 
 
