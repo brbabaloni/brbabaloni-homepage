@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
-url_slides: "project/docker/"
+url_pdf: "project/docker"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
