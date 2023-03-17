@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/nas/nas.pdf"
+url_pdf: "project/nas"
 url_slides: ""
 url_video: ""
 
