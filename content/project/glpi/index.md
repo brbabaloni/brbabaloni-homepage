@@ -1,6 +1,6 @@
 ---
 title: Installation et fonctionnement de GLPI
-summary: Pour suivre le parc informatique et les incidents qui y sont liés la DSI d'Assur Mer nous a chargé d'installer et de mettre en place GLPI
+summary: Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'Assur Mer vous charge d'installer et de mettre en place GLPI.
 tags:
 - atelier
 date: "2016-04-27T00:00:00Z"
