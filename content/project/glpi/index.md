@@ -38,10 +38,6 @@ GLPI est un acronyme pour "Gestionnaire Libre de Parc Informatique". C'est une a
 
 La procédure d'installation est disponible ici.
 
-<h3>Utilisation</h3>
-
-FOG se configure et s'utilise à l'aide d'une interface Web, qui nous permet de capturer et de déployer les postes.
-
 <h3>Cycle de vie du ticket</h3>
 
 le cycle de vie du ticket GLPI suit les étapes suivantes :
