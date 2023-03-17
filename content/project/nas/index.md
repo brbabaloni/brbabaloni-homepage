@@ -14,8 +14,8 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
-url_slides: "https://brbabaloni.fr/project/nas/nas.pdf"
+url_pdf: "project/nas/nas.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
