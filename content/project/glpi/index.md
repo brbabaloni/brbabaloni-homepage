@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "install_glpi.pdf"
 url_slides: ""
 url_video: ""
 
