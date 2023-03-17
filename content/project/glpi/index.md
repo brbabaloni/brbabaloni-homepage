@@ -41,3 +41,29 @@ La procédure d'installation est disponible ici.
 <h3>Utilisation</h3>
 
 FOG se configure et s'utilise à l'aide d'une interface Web, qui nous permet de capturer et de déployer les postes.
+
+<h3>Cycle de vie du ticket</h3>
+
+le cycle de vie du ticket GLPI suit les étapes suivantes :
+
+Création : le ticket est créé par l'utilisateur qui signale un problème ou une demande de service.
+
+Attribution : le ticket est attribué à un technicien qui est responsable de sa résolution. L'attribution peut se faire manuellement ou automatiquement en fonction de la configuration de GLPI.
+
+Planification : le technicien planifie le temps nécessaire pour résoudre le ticket.
+
+Analyse : le technicien analyse le problème ou la demande de service décrit dans le ticket.
+
+Diagnostic : le technicien identifie la cause du problème ou de la demande de service.
+
+Résolution : le technicien résout le problème ou répond à la demande de service.
+
+Validation : l'utilisateur vérifie si le problème a été résolu ou si la demande de service a été traitée correctement.
+
+Fermeture : le ticket est fermé une fois que l'utilisateur a confirmé que le problème a été résolu ou que la demande de service a été traitée correctement.
+
+Réouverture : le ticket peut être réouvert si le problème n'a pas été résolu ou si l'utilisateur a besoin d'une assistance supplémentaire.
+
+Archivage : le ticket est archivé une fois qu'il a été fermé pour une future référence.
+
+Ces étapes peuvent être personnalisées en fonction des besoins de l'organisation et des processus internes.
