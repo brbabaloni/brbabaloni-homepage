@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "install_glpi.pdf"
+url_pdf: "project/glpi/install_glpi.pdf"
 url_slides: ""
 url_video: ""
 
@@ -36,7 +36,7 @@ GLPI est un acronyme pour "Gestionnaire Libre de Parc Informatique". C'est une a
 
 <h3>Installation</h3>
 
-Comme expliqué précédement, FOG s'installe sur une base Linux (Debian, Ubuntu, ...), l'installation s'effectue simplement à l'aide d'un script Bash qui déroule l'installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.
+La procédure d'installation est disponible ici.
 
 <h3>Utilisation</h3>
 
