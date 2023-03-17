@@ -52,9 +52,9 @@ Créer un document pour les utilisateurs afin de les accompagner dans l’utilis
 <br>
 <br>
 <h3>Livrables</h3>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur </a></ul>
+<ul><a href="project/nas/doc1.pdf">Doc 1 : Planning de travail</a></ul>
+<ul><a href="project/nas/doc2.pdf">Doc 2 : Fonctionnalités principales d’un NAS</a></ul>
+<ul><a href="project/nas/doc3.pdf">Doc 3 : Comparaison des différentes solutions RAID</a></ul>
+<ul><a href="project/nas/doc4.pdf">Doc 4 : Procédure d’installation</a></ul>
+<ul><a href="project/nas/doc5.pdf">Doc 5 : Document d’accompagnement utilisateur </a></ul>
 
