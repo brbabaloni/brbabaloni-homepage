@@ -64,7 +64,7 @@ email: "baptiste.ruello-babaloni@rbgl.fr"
 highlight_name: true
 ---
 
-Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
+Moi c'est Baptiste ! Je suis un étudiant de 22 ans.
 
 Je suis passionné par les mobilités ainsi que l’informatique. Je suis le créateur du projet « Copilote » un assistant mobilité repensé pour être ergonomique, fonctionnel et utilisable au quotidien. Il m'arrive également de faire du dev' de temps en temps.
 
