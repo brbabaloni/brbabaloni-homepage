@@ -1,6 +1,6 @@
 ---
 title: Mise en place de la solution RDS (Remote Desktop Services)
-summary: Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
+summary: Pour permettre aux utilisateurs en télétravail d’accéder à leurs applications métiers depuis n’importe quel poste de travail. La DSI envisage l’implémentation dans le SI d’une solution de type RDS et vous charge de sa mise en place.
 tags:
 - formation
 date: "2022-11-04T00:00:00Z"
@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/nas"
+url_pdf: "project/rds/install_rds.pdf"
 url_slides: ""
 url_video: ""
 
@@ -30,17 +30,18 @@ Activités du référentiel pour l’épreuve E4 2023 :
 
 <ul>- Gérer le patrimoine informatique</ul>
 <ul>- Travailler en mode projet</ul>
+<ul>- Mettre à disposition des utilisateurs un service informatique</ul>
 
 <h3>Contexte</h3>
-Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’ASSUR MER ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
+Pour permettre aux utilisateurs en télétravail d’accéder à leurs applications métiers depuis n’importe quel poste de travail. La DSI envisage l’implémentation dans le SI d’une solution de type RDS et vous charge de sa mise en place.
 <br>
 <br>
 <h3>Solution</h3>
-Mise en place et configuration d'un NAS Synology. Pour mettre à disposition des partages de fichiers pour les utilisateurs et des sauvegardes des serveurs. Comparaison des différentes solutions RAID.
+Le Remote Desktop Services (RDS) est une fonctionnalité de Windows Server qui permet à plusieurs utilisateurs de se connecter simultanément à un serveur distant. Les utilisateurs peuvent accéder à des applications et à des données hébergées sur un serveur distant à partir de n'importe quel appareil connecté à Internet.
 <br>
 <br>
 <h3>Livrables</h3>
-<ul><a href="planning_nas.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="install_nas.pdf">Doc 2 : Installation et configuration d'un NAS Synology</a></ul>
-<ul><a href="comparaison_raid.pdf">Doc 3 : Comparaison des différentes solutions RAID</a></ul>
+<ul><a href="planning_rds.pdf">Doc 1 : Planning de travail</a></ul>
+<ul><a href="install_rds.pdf">Doc 2 : Installation et configuration d'un NAS Synology</a></ul>
+<ul><a href="doc_util_rds.pdf">Doc 3 : Documentation utilisateur</a></ul>
 
