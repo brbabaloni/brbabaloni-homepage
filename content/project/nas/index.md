@@ -1,6 +1,6 @@
 ---
 title: Mise en place d'une solution de stockage NAS
-summary: Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
+summary: Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS.
 tags:
 - formation
 date: "2022-11-04T00:00:00Z"
@@ -36,8 +36,7 @@ Afin de gérer les documents et données (uniquement professionnels) des différ
 <br>
 <br>
 <h3>Solution</h3>
-
-Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde
+Mise en place et configuration d'un NAS Synology. Pour mettre à disposition des partages de fichiers pour les utilisateurs et des sauvegardes des serveurs. Comparaison des différentes solutions RAID.
 <br>
 <br>
 <h3>Livrables</h3>
