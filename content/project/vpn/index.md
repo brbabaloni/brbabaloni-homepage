@@ -1,6 +1,6 @@
 ---
-title: Mise en place d'une solution de supervision d'infrastructure
-summary: Pour suivre le fonctionnement de l'infrastucture et les incidents qui y sont liés, la DSI d'ASSUR MER vous charge d'installer et de mettre en place une solution de supervision.
+title: Solution de connexion distante VPN
+summary: Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l'entreprise, la DSI d'ASSUR MER vous charge de mettre en place une solution de connexion distante.
 tags:
 - formation
 date: "2016-04-27T00:00:00Z"
@@ -30,17 +30,18 @@ slides:
 
 <ul>- Gérer le patrimoine informatique</ul>
 <ul>- Travailler en mode projet</ul>
+<ul>- Mettre à disposition des utilisateurs un service informatique</ul>
 </p>
 <h3>Contexte</h3>
 
-Pour suivre le fonctionnement de l'infrastucture et les incidents qui y sont liés, la DSI d'ASSUR MER vous charge d'installer et de mettre en place une solution de supervision.
+Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l'entreprise, la DSI d'ASSUR MER vous charge de mettre en place une solution de connexion distante.
 <br>
 <br>
 <h3>Solution</h3>
-
-Checkmk est une solution de supervision open source qui permet de surveiller les serveurs et les applications. Elle permet de surveiller les performances et l'état des systèmes, des réseaux et des applications.
+Wireguard est un VPN open source qui permet de créer un réseau privé virtuel sécurisé. Il permet de connecter des ordinateurs distants à un réseau local de façon sécurisé.
 <br>
 <br>
 <h3>Livrables</h3>
-<ul><a href="planning_checkmk.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="install_checkmk.pdf">Doc 2 : Installation de la solution checkmk</a></ul>
+<ul><a href="planning_vpn.pdf">Doc 1 : Planning de travail</a></ul>
+<ul><a href="install_vpn.pdf">Doc 2 : Configuration du serveur VPN WireGuard</a></ul>
+<ul><a href="doc_util_vpn.pdf">Doc 3 : Documentation du client VPN WireGuard</a></ul>
