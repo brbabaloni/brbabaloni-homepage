@@ -26,16 +26,17 @@ url_video: ""
 slides:
 ---
 
-Activités du référentiel pour l’épreuve E4 2023 :
+<p>Activités du référentiel pour l’épreuve E4 2023 :
 
 <ul>- Gérer le patrimoine informatique</ul>
 <ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution</ul>
 <ul>- Travailler en mode projet</ul>
 <ul>- Mettre à disposition des utilisateurs un service informatique</ul>
-<br>
+</p>
 <h3>Contexte</h3>
 
 Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'ASSUR MER vous charge d'installer et de mettre en place GLPI.
+<br>
 <br>
 <h3>Solution</h3>
 
