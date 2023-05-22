@@ -26,7 +26,7 @@ url_video: ""
 slides:
 ---
 
-Activités du référentiel pour l’épreuve E42023 :
+Activités du référentiel pour l’épreuve E4 2023 :
 
 <ul>- Gérer le patrimoine informatique</ul>
 <ul>- Travailler en mode projet</ul>

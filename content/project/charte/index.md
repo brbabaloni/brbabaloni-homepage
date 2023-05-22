@@ -25,7 +25,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-
 <h3>Contexte</h3>
 
 La direction d'ASSUR MER souhaitant régir l'utilisation des ressources informatique et numérique a saisie la DSI afin d'en rédiger une, le DSI vous charge de cette tache.
@@ -37,5 +36,5 @@ Cahier des charges :
 <ul>- Utilisation du matériel informatique</ul>
 <ul>- Utilisation des services : internet, messagerie, partage réseau, ...</ul>
 <ul>- Protection des données personnelles</ul>
-
+<br>
 <a href="https://brbabaloni.fr/project/charte/charte.pdf">Consulter la charte</a>
