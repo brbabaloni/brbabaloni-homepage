@@ -30,7 +30,7 @@ content:
   - name: Professionnelles
     tag: pro
   - name: Formation
-    tag: cfa
+    tag: formation
   - name: E5
     tag: E5
 
