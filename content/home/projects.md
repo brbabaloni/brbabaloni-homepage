@@ -31,6 +31,8 @@ content:
     tag: pro
   - name: Formation
     tag: cfa
+  - name: E5
+    tag: E5
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

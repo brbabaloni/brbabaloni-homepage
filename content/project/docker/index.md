@@ -2,7 +2,7 @@
 title: Déploiement de conteneurs applicatifs avec Docker et Portainer
 summary: La DSI d'ASSUR MER souhaite déployer et maintenir en condition opérationnelle certains service comme les serveurs de web ou de bases de données tous en assurant le suivi du déploiement avec Portainer.
 tags:
-- cfa
+- E5
 date: "2022-11-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -40,7 +40,7 @@ Afin de gérer les documents et données (uniquement professionnels) des différ
 
 Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde  
 
-Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques. 
+Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.
 
 Comparer deux solutions logicielles de NAS que sont TrueNas et Synology 
 
