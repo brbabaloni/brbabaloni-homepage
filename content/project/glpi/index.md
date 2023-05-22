@@ -1,5 +1,5 @@
 ---
-title: Installation et fonctionnement de GLPI
+title: Déploiement de GLPI
 summary: Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'Assur Mer vous charge d'installer et de mettre en place GLPI.
 tags:
 - cfa
