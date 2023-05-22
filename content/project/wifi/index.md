@@ -44,4 +44,4 @@ Pour cela vous devrez mettre en place différentes cellules WiFi en fonction du 
 <br>
 <h3>Livrables</h3>
 <ul><a href="planning_wifi.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="doc_wifi.pdf">Doc 2 : Installation d'une borne Cisco Business 240AC</a></ul>
+<ul><a href="doc_wifi.pdf">Doc 2 : Configuration d'une borne WiFi Cisco Business 240AC</a></ul>
