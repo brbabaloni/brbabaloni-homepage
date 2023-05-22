@@ -38,7 +38,7 @@ categories:
 Bonjour,
 <br>
 <br>
-Je m'appelle Baptiste, j'ai 21 ans, je travaille à la Direction Zonale de Police Judiciaire Sud au Service Informatique Zonal dans le cadre de mon apprentissage en BTS SIO option SISR.
+Je m'appelle Baptiste, j'ai 22 ans, je travaille en tant qu'apprenti technicien des SIC, à la Direction Zonale de Police Judiciaire Sud au Service Informatique Zonal dans le cadre de mon apprentissage en BTS SIO option SISR.
 <br>
 <br>
 La Direction Zonale de Police Judiciaire Sud (DZPJ SUD), plus important service territorial de la Direction Centrale de la Police Judiciaire (D.C.P.J), compte plus de 1350fonctionnaires répartis entre les quatre Directions Territoriales de Police Judiciaire (D.T.P.J.) de Marseille, Montpellier, Toulouse et Ajaccio.
