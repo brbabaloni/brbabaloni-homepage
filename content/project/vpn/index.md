@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/checkmk/install_checkmk.pdf"
+url_pdf: "project/checkmk/install_vpn.pdf"
 url_slides: ""
 url_video: ""
 
