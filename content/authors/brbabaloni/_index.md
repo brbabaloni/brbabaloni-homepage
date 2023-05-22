@@ -6,11 +6,11 @@ title: Baptiste RUELLO-BABALONI
 superuser: true
 
 # Role/position/tagline
-role: Étudiant en BTS SIO SISR à
+role: Étudiant en BTS SIO SISR
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: l'École Pratique
+- name: à l'École Pratique
   url: https://ecolepratique.com
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,4 +68,4 @@ Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
 
 Je suis passionné par les mobilités ainsi que l’informatique. Je suis le créateur du projet « Copilote » un assistant mobilité repensé pour être ergonomique, fonctionnel et utilisable au quotidien. Il m'arrive également de faire du dev' de temps en temps.
 
-{{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Télécharger mon {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
