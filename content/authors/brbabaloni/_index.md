@@ -14,7 +14,7 @@ organizations:
   url: https://ecolepratique.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Moi c'est Baptiste ! Je suis un étudiant de 21 ans.
+bio: Moi c'est Baptiste ! Je suis un étudiant de 22 ans.
 
 # Interests to show in About widget
 interests:
