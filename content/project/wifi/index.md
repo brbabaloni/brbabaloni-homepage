@@ -1,6 +1,6 @@
 ---
 title: Mise en place d'un réseau WiFi sécurisé
-summary: Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'Assur Mer vous charge d'installer et de mettre en place GLPI.
+summary: Vous êtes chargé de l’étude de la mise place d’un accès WIFI sécurisé afin de permettre aux utilisateurs d’ASSUR MER d’utiliser un service de connexion sans fil et d’accéder ainsi aux informations se trouvant hébergées sur l’intranet de l’entreprise.
 tags:
 - formation
 date: "2016-04-27T00:00:00Z"
@@ -34,16 +34,14 @@ slides:
 </p>
 <h3>Contexte</h3>
 
-Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'ASSUR MER vous charge d'installer et de mettre en place GLPI.
+Vous êtes chargé de l’étude de la mise place d’un accès WiFi sécurisé afin de permettre aux utilisateurs d’ASSUR MER d’utiliser un service de connexion sans fil et d’accéder ainsi aux informations se trouvant hébergées sur l’intranet de l’entreprise.
 <br>
 <br>
 <h3>Solution</h3>
 
-GLPI est un acronyme pour "Gestionnaire Libre de Parc Informatique". C'est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d'assistance.
+Pour cela vous devrez mettre en place différentes cellules WiFi en fonction du type d’utilisateurs concernées par cette future connexion. La solution retenu est la mise en place de borne Cisco Business 240AC.
 <br>
 <br>
 <h3>Livrables</h3>
-<ul><a href="planning_glpi.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="install_glpi.pdf">Doc 2 : Installation de GLPI</a></ul>
-<ul><a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket</a></ul>
-<ul><a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur</a></ul>
+<ul><a href="planning_wifi.pdf">Doc 1 : Planning de travail</a></ul>
+<ul><a href="doc_wifi.pdf">Doc 2 : Installation d'une borne Cisco Business 240AC</a></ul>
