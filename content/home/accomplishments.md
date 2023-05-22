@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://secnumacademie.gouv.fr
+- certificate_url: /uploads/mooc_anssi.pdf
   date_end: ""
   date_start: "2021-12-10"
   description: L’ANSSI propose SecNumacadémie pour former le plus grand nombre de citoyens à la sécurité du numérique.
@@ -31,7 +31,7 @@ item:
   organization_url: https://secnumacademie.gouv.fr
   title: Sensibilisation à la sécurité du numérique
   url: ""
-- certificate_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
+- certificate_url: /uploads/mooc_drsd.pdf
   date_end: ""
   date_start: "2022-06-01"
   description: L’habilitation secret défense & Les informations et supports classifiés
@@ -39,7 +39,7 @@ item:
   organization_url: https://www.drsd.defense.gouv.fr/la-protection-du-secret-de-la-defense-nationale
   title: La protection du secret de la défense nationale
   url: ""
-- certificate_url: https://atelier-rgpd.cnil.fr/login/index.php
+- certificate_url: /uploads/mooc_cnil.pdf
   date_end: ""
   date_start: "2022-09-01"
   description: L’atelier RGPD est une formation en ligne gratuite, illimitée et ouverte à tous !
