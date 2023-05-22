@@ -2,7 +2,7 @@
 title: Mise en place d'une solution de stockage NAS
 summary: Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
 tags:
-- atelier
+- cfa
 date: "2022-11-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

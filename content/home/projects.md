@@ -29,10 +29,8 @@ content:
     tag: '*'
   - name: Professionnelles
     tag: pro
-  - name: Ateliers
-    tag: atelier
-  - name: Personnelles
-    tag: perso
+  - name: Formation
+    tag: cfa
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
