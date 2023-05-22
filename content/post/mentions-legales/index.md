@@ -46,7 +46,7 @@ Téléphone : +1 877-448-4820
 
 <h3>Propriété intellectuelle</h3>
 
-Le contenu de ce site, y compris les textes, images, vidéos, graphiques, logos et autres éléments, est protégé par les lois sur la propriété intellectuelle et est la propriété exclusive de [Votre nom] ou des tiers ayant accordé une licence d'utilisation à [Votre nom]. Toute reproduction, distribution, modification ou utilisation non autorisée du contenu est strictement interdite.
+Sauf mention contraire, le contenu de ce site, y compris les textes, images, vidéos, graphiques, logos et autres éléments, est protégé par les lois sur la propriété intellectuelle et est la propriété exclusive de Baptiste RUELLO-BABALONI ou des tiers ayant accordé une licence d'utilisation. Toute reproduction, distribution, modification ou utilisation non autorisée du contenu est strictement interdite.
 
 <h3>Responsabilité</h3>
 
@@ -55,10 +55,6 @@ Bien que nous nous efforcions de maintenir les informations présentes sur ce si
 <h3>Liens externes</h3>
 
 Ce site peut contenir des liens vers des sites web externes. Nous n'exerçons aucun contrôle sur le contenu ou les pratiques de ces sites et déclinons toute responsabilité quant à leur contenu, leur exactitude ou leur légalité. L'inclusion de liens vers des sites tiers ne constitue en aucun cas une approbation ou une recommandation de ces sites.
-
-<h3>Données personnelles</h3>
-
-Nous respectons votre vie privée et nous engageons à protéger les données personnelles que vous nous fournissez. Nous collectons uniquement les informations nécessaires pour répondre à vos demandes ou pour améliorer nos services. Vos données personnelles ne seront pas vendues, louées ou divulguées à des tiers sans votre consentement préalable, sauf si cela est requis par la loi.
 
 <h3>Cookies</h3>
 
