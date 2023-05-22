@@ -28,9 +28,9 @@ image:
   placement: 2
   preview_only: false
 
-authors:[]
+authors: []
 
-categories:[]
+categories: []
 ---
 
 <h3>Mentions légales</h3>
