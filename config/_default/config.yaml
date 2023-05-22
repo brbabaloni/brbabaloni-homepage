@@ -5,7 +5,7 @@
 
 title: Baptiste RUELLO-BABALONI # Website name
 baseurl: 'https://brbabaloni.fr' # Website URL
-copyright: 'Tous droits réservés {year} - Baptiste RUELLO-BABALONI' # Footer text, e.g. '© {year} Me'
+copyright: 'Tous droits réservés {year} - Baptiste RUELLO-BABALONI - <a href="/post/mentions-legales">Mentions légales</a>' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
