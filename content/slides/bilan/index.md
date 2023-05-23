@@ -15,8 +15,6 @@ slides:
 
 # Bilan
 
-Deux années de BTS SIO option SISR
-<br>
 Celui-ci retrace l'ensemble des compétences que j'ai pu acquérir durant mes deux années de formation en BTS SIO SISR
 
 ---
