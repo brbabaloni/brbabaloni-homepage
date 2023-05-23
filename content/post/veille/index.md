@@ -3,7 +3,7 @@ title: Veille informationnelle
 subtitle:
 
 # Summary for listings and search engines
-summary: Test
+summary: Veille informationnelle
 
 # Link this post with a project
 projects: []
@@ -47,10 +47,10 @@ Ma veille porte sur les <u>Solutions d'Infrastructure Systèmes</u>
 <br>
 <h3>Comment j'effectue ma veille</h3>
 
-<ul>- Les flux RSS aggrégé avec Feedly</ul>
+<ul>- Les flux RSS aggrégé avec <a href="https://rss.brbabaloni.fr">FreshRSS</a></ul>
 <ul>- Twitter</ul>
 <ul>- Google Alert</ul>
-<ul>- Linkedin</ul>
+<ul>- LinkedIn</ul>
 
 Mots-clés :
 <ul>- Proxmox</ul>
