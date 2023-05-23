@@ -20,7 +20,7 @@ main:
     url: 'https://brbabaloni.fr/post/veille'
     weight: 50
   - name: Bilan
-    url: '/post/bilan/'
+    url: '/slides/bilan'
     weight: 60
   - name: Contact
     url: '#contact'
