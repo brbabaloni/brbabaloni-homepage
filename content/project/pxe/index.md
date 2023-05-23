@@ -26,6 +26,10 @@ url_video: ""
 slides:
 ---
 
+<p>Activités du référentiel pour l’épreuve E4 2023 :
+<ul>- Gérer le patrimoine informatique</ul>
+<ul>- Travailler en mode projet</ul>
+</p>
 <h3>Contexte</h3>
 
 Dans le cadre du renouvellement partiel du matériel de nos utilisateurs, nous devons déployer une centaine de machine par an.
@@ -42,10 +46,6 @@ FOG permet entre de déployer un système d'exploitation préalablement
 cloné, sur un parc de machines donné via le réseau en s'appuyant sur les
 protocoles DHCP / PXE.
 
-<h3>Installation</h3>
-
-Comme expliqué précédement, FOG s'installe sur une base Linux (Debian, Ubuntu, ...), l'installation s'effectue simplement à l'aide d'un script Bash qui déroule l'installation en installant à notre place tous les paquets nécéssaires au bon fonctionnement de FOG.
-
-<h3>Utilisation</h3>
-
-FOG se configure et s'utilise à l'aide d'une interface Web, qui nous permet de capturer et de déployer les postes.
+<h3>Livrables</h3>
+<ul><a href="install_pxe.pdf">Doc 1 : Installation de FOG</a></ul>
+<ul><a href="doc_util_pxe.pdf">Doc 1 : Documentation technique</a></ul>
