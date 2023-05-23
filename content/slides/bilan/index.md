@@ -24,9 +24,8 @@ Celui-ci retrace l'ensemble des compétences que j'ai pu acquérir durant mes de
 ## Compétences acquises
 
 - <b>S'adapter</b> Pendant mes 2 années de BTS, j'ai dû m'adapter aux horaires des usagers, mais aussi à leurs disponibilités.
-- <b>Rigueur</b> 
-- Supports speaker notes
-- Mobile friendly slides
+- <b>Rigueur</b> L'environnement professionnel à la Direction Zonale de Police Judiciaire Sud, m'a appris à être rigoureux dans mon travail.
+- <b>Travail en équipe</b> A l'école, comme en entreprise, j'ai dû travailler en équipe, que ce soit pour des projets ou pour des tâches quotidiennes.
 
 ---
 
