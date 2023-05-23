@@ -24,7 +24,8 @@ Celui-ci retrace l'ensemble des compétences que j'ai pu acquérir durant mes de
 - <b>S'adapter</b> Pendant mes 2 années de BTS, j'ai dû m'adapter aux horaires des usagers, mais aussi à leurs disponibilités.
 - <b>Rigueur</b> L'environnement professionnel à la Direction Zonale de Police Judiciaire Sud, m'a appris à être rigoureux dans mon travail.
 - <b>Travail en équipe</b> A l'école, comme en entreprise, j'ai dû travailler en équipe, que ce soit pour des projets ou pour des tâches quotidiennes.
-
+- <b>Professionnalisation</b> J'ai pu acquérir une expérience professionnelle grâce à mon alternance.
+- <b>Autonomie</b> J'ai dû faire preuve d'autonomie dans mon travail, que ce soit pour des projets ou pour des tâches quotidiennes.
 ---
 
 ## Controls
