@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/glpi/install_glpi.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -42,10 +42,3 @@ Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zo
 <ul>Assurer la gestion du parc informatique</ul>
 <ul>Déploiement de nouveaux postes de travail</ul>
 <ul>Installation et maintenance d'équipements réseaux et téléphoniques</ul>
-<br>
-<br>
-<h3>Livrables</h3>
-<ul><a href="planning_glpi.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="install_glpi.pdf">Doc 2 : Installation de GLPI</a></ul>
-<ul><a href="cycle_ticket.pdf">Doc 3 : Cycle de vie du ticket</a></ul>
-<ul><a href="doc_util_glpi.pdf">Doc 4 : Document d’accompagnement utilisateur</a></ul>
