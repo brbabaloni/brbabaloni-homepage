@@ -36,9 +36,12 @@ slides:
 Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j'ai pour principale mission d'assurer l'assistance aux utilisateurs et la gestion du parc informatique.
 <br>
 <br>
-<h3>Solution</h3>
+<h3>Missions</h3>
 
-GLPI est un acronyme pour "Gestionnaire Libre de Parc Informatique". C'est une application open-source de gestion des services informatiques (ITSM) qui permet aux organisations de gérer efficacement leur parc informatique, leurs ressources matérielles et logicielles ainsi que les demandes d'assistance.
+<ul>Assurer l'assistance aux utilisateurs</ul>
+<ul>Assurer la gestion du parc informatique</ul>
+<ul>Déploiement de nouveaux postes de travail</ul>
+<ul>Installation et maintenance d'équipements réseaux et téléphoniques</ul>
 <br>
 <br>
 <h3>Livrables</h3>
