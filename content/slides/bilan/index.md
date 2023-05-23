@@ -23,8 +23,8 @@ Celui-ci retrace l'ensemble des compétences que j'ai pu acquérir durant mes de
 
 ## Compétences acquises
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
+- <b>S'adapter</b> Pendant mes 2 années de BTS, j'ai dû m'adapter aux horaires des usagers, mais aussi à leurs disponibilités.
+- <b>Rigueur</b> 
 - Supports speaker notes
 - Mobile friendly slides
 
