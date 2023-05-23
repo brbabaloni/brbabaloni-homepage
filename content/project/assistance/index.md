@@ -2,7 +2,7 @@
 title: Assistance aux utilisateurs & Gestion du parc informatique
 summary: Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j'ai pour principale mission d'assurer l'assistance aux utilisateurs et la gestion du parc informatique.
 tags:
-- formation
+- pro
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
