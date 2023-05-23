@@ -1,6 +1,6 @@
 ---
-title: Déploiement de GLPI
-summary: Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'Assur Mer vous charge d'installer et de mettre en place GLPI.
+title: Assistance aux utilisateurs & Gestion du parc informatique
+summary: Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j'ai pour principale mission d'assurer l'assistance aux utilisateurs et la gestion du parc informatique.
 tags:
 - formation
 date: "2016-04-27T00:00:00Z"
@@ -30,12 +30,10 @@ slides:
 
 <ul>- Gérer le patrimoine informatique</ul>
 <ul>- Répondre aux incidents et aux demandes d’assistance et d’évolution</ul>
-<ul>- Travailler en mode projet</ul>
-<ul>- Mettre à disposition des utilisateurs un service informatique</ul>
 </p>
 <h3>Contexte</h3>
 
-Pour suivre le parc informatique et les incidents qui y sont liés, la DSI d'ASSUR MER vous charge d'installer et de mettre en place GLPI.
+Dans le cadre de mon alternance au Service Informatique Zonal de la Direction Zonale de Police Judiciaire Sud, j'ai pour principale mission d'assurer l'assistance aux utilisateurs et la gestion du parc informatique.
 <br>
 <br>
 <h3>Solution</h3>
