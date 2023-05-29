@@ -26,35 +26,26 @@ url_video: ""
 slides:
 ---
 
-Activités du référentiel pour l’épreuve E42023 :
-
-<ul>- Gérer le patrimoine informatique</ul>
-<ul>- Travailler en mode projet</ul>
-<ul>- Mettre à disposition des utilisateurs un service informatique</ul>
-
 <h3>Contexte</h3>
-Afin de gérer les documents et données (uniquement professionnels) des différents utilisateurs d’Assurmer ainsi que leurs sauvegardes, votre DSI envisage l’implémentation dans le SI d’une solution de type NAS. 
+La DSI envisage le changement progressif de son système d’hébergement des applications afin des les migrer vers un cluster Docker pour ses facilités de déploiement et de supervision.
+
+Cette solution permettra une meilleure disponibilité, la mise en place d’un équilibrage de charge en déployant dynamiquement des conteneurs applicatifs et la réplication de certaines applications.
 <br>
 <br>
-<h3>Missions</h3>
+<h3>Démarche</h3>
 
-Réaliser une étude les principales fonctionnalités d’un serveur NAS en insistant sur le chiffrage des données et sauvegarde  
+1)	Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6
+2)	Création du cluster Docker
+3)	Déploiement du conteneur Portainer
+4)	Déploiement d’une application
+5)	Test de mise en production
+6)	Administration et suivi du déploiement avec Portainer
 
-Présenter une analyse des solutions de type RAID (Redundant Array of Independent Disks) permettant d’assurer la sécurité des données et des disques.
-
-Comparer deux solutions logicielles de NAS que sont TrueNas et Synology 
-
-Installer et configurer les solutions TrueNas et Synology. (https://xpenology.net) sur votre machine personnelle sous VM afin de choisir votre solution définitive que vous installerez ensuite sur votre îlot. 
-
-Tester la solution en créant un dossier de partage public en lecture seule, puis un dossier par groupe de sécurité Active directory en lecture-écriture et enfin un dossier nominatif par compte utilisateur. 
-
-Créer un document pour les utilisateurs afin de les accompagner dans l’utilisation de ce nouveau service
 <br>
 <br>
-<h3>Livrables</h3>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 1 : Planning de travail</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 2 : Fonctionnalités principales d’un NAS</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 3 : Comparaison des différentes solutions RAID</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 4 : Procédure d’installation</a></ul>
-<ul><a href="https://brbabaloni.fr/project/charte/charte.pdf">Doc 5 : Document d’accompagnement utilisateur </a></ul>
+<h3>Documents associés</h3>
+<ul><a href="E5-DOCKER.pdf">Fiche descriptive de réalisation professionnelle</a></ul>
+<ul><a href="topologie_assurmer.pdf">Topologie de l'infrastructure ASSUR MER</a></ul>
+<ul><a href="topologie_docker.pdf">Topologie de l'infrastructure DOCKER</a></ul>
+<ul><a href="doc_e5_docker.pdf">Documentation</a></ul>
 
