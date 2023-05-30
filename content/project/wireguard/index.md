@@ -3,7 +3,7 @@ title: Mise en place d’une solution VPN Wireguard
 summary: Pour permettre aux collaborateurs de se connecter à distance de façon sécurisé aux ressources de l'entreprise, la DSI d'ASSUR MER vous charge de mettre en place une solution de connexion distante.
 tags:
 - E5
-date: "2016-04-27T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/wireguard/install_vpn.pdf"
+url_pdf: "project/wireguard/doc_e5_wireguard.pdf"
 url_slides: ""
 url_video: ""
 

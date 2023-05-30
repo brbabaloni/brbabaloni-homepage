@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "project/wireguard/install_vpn.pdf"
+url_pdf: "project/vpn/install_vpn.pdf"
 url_slides: ""
 url_video: ""
 
