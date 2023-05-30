@@ -32,14 +32,25 @@ La DSI envisage le changement progressif de son système d’hébergement des ap
 Cette solution permettra une meilleure disponibilité, la mise en place d’un équilibrage de charge en déployant dynamiquement des conteneurs applicatifs et la réplication de certaines applications.
 <br>
 <br>
-<h3>Démarche</h3>
+<h3>Environnement</h3>
+- 1 hyperviseur de type 1 « bare-metal » VMware ESXi
+- 1 machine virtuelle sous Debian 11
+- 1 poste client Windows 10
 
+<br>
+<br>
+<h3>Démarche</h3>
 1)	Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6
 2)	Création du cluster Docker
 3)	Déploiement du conteneur Portainer
 4)	Déploiement d’une application
 5)	Test de mise en production
 6)	Administration et suivi du déploiement avec Portainer
+<br>
+<br>
+<h3>Résultats attendus</h3>
+- Mise à disposition d’applications/services aux utilisateurs
+- Administration et supervision du déploiement par Portainer
 <br>
 <br>
 <h3>Documents associés</h3>
