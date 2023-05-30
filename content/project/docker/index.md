@@ -40,7 +40,6 @@ Cette solution permettra une meilleure disponibilité, la mise en place d’un �
 4)	Déploiement d’une application
 5)	Test de mise en production
 6)	Administration et suivi du déploiement avec Portainer
-
 <br>
 <br>
 <h3>Documents associés</h3>
