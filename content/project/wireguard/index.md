@@ -54,7 +54,7 @@ La crise sanitaire liée au COVID-19 à fortement changer les modes de productio
 <br>
 <br>
 <h3>Documents associés</h3>
-<ul><a href="E5-DOCKER.pdf">Fiche descriptive de réalisation professionnelle</a></ul>
+<ul><a href="E5-Wireguard.pdf">Fiche descriptive de réalisation professionnelle</a></ul>
 <ul><a href="topologie_assurmer.pdf">Topologie de l'infrastructure ASSUR MER</a></ul>
 <ul><a href="doc_e5_wireguard.pdf">Documentation VPN</a></ul>
-<ul><a href="doc_e5_checkmk.pdf">Documentation CheckMK</a></ul>
+<ul><a href="install_checkmk.pdf">Documentation CheckMK</a></ul>
