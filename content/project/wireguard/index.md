@@ -34,9 +34,9 @@ La crise sanitaire liée au COVID-19 à fortement changer les modes de productio
 <br>
 <br>
 <h3>Environnement</h3>
-- 1 routeur/pare-feu pfSense</ul>
-- 1 poste client Windows 10</ul>
-- 1 serveur de supervision CheckMK</ul>
+<ul>- 1 routeur/pare-feu pfSense</ul>
+<ul>- 1 poste client Windows 10</ul>
+<ul>- 1 serveur de supervision CheckMK</ul>
 <br>
 <br>
 <h3>Démarche</h3>
