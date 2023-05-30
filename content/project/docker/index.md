@@ -33,24 +33,24 @@ Cette solution permettra une meilleure disponibilité, la mise en place d’un �
 <br>
 <br>
 <h3>Environnement</h3>
-- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3
-- 1 machine virtuelle sous Debian 11
-- 1 poste client Windows 10
+<ul>- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3</ul>
+<ul>- 1 machine virtuelle sous Debian 11</ul>
+<ul>- 1 poste client Windows 10</ul>
 
 <br>
 <br>
 <h3>Démarche</h3>
-1)	Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6
-2)	Création du cluster Docker
-3)	Déploiement du conteneur Portainer
-4)	Déploiement d’une application
-5)	Test de mise en production
-6)	Administration et suivi du déploiement avec Portainer
+<ul>1)	Installation de la VM Docker V-ASSURMER-DOCKER01 - 172.16.0.6</ul>
+<ul>2)	Création du cluster Docker</ul>
+<ul>3)	Déploiement du conteneur Portainer</ul>
+<ul>4)	Déploiement d’une application</ul>
+<ul>5)	Test de mise en production</ul>
+<ul>6)	Administration et suivi du déploiement avec Portainer</ul>
 <br>
 <br>
 <h3>Résultats attendus</h3>
-- Mise à disposition d’applications/services aux utilisateurs
-- Administration et supervision du déploiement par Portainer
+<ul>- Mise à disposition d’applications/services aux utilisateurs</ul>
+<ul>- Administration et supervision du déploiement par Portainer</ul>
 <br>
 <br>
 <h3>Documents associés</h3>
