@@ -36,7 +36,6 @@ Cette solution permettra une meilleure disponibilité, la mise en place d’un �
 <ul>- 1 hyperviseur de type 1 « bare-metal » VMware ESXi 7.0 U3</ul>
 <ul>- 1 machine virtuelle sous Debian 11</ul>
 <ul>- 1 poste client Windows 10</ul>
-
 <br>
 <br>
 <h3>Démarche</h3>
