@@ -3,7 +3,7 @@ title: Déploiement de conteneurs applicatifs avec Docker et Portainer
 summary: La DSI d'ASSUR MER souhaite déployer et maintenir en condition opérationnelle certains service comme les serveurs de web ou de bases de données tous en assurant le suivi du déploiement avec Portainer.
 tags:
 - E5
-date: "2022-11-04T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
